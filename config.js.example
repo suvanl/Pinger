@@ -1,0 +1,3 @@
+exports.TOKEN = "TOKEN-HERE";
+
+exports.PREFIX = "PREFIX-HERE";

@@ -1,0 +1,19 @@
+{
+  "name": "pinger",
+  "version": "1.0.2",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "eslint ."
+  },
+  "author": "suvanl",
+  "license": "MIT",
+  "dependencies": {
+    "chalk": "^2.4.1",
+    "discord.js": "^11.4.2",
+    "moment": "^2.22.2"
+  },
+  "devDependencies": {
+    "eslint": "^5.4.0"
+  }
+}
