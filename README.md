@@ -31,7 +31,7 @@ Once the **`ping`** command has been run, the bot will ping you once every 1.5 s
 4. Open a terminal window in the directory the (unzipped) bot files are in (e.g. Command Prompt/PowerShell on Windows, Terminal on macOS, etc).
 5. Run `npm install --production`. If you'd like to work on developing this bot, you should just run `npm install`.
 
-## Starting and stopping the bot
+### Starting and stopping the bot
 1. Once everything has been installed, run `npm start` or `node index.js` (both do the same thing) to start the bot.
 2. To stop the bot, press **Ctrl** + **C** in the terminal session.
 
