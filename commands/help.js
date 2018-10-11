@@ -2,7 +2,6 @@ const { PREFIX } = require("../config");
 const moment = require("moment");
 const timestamp = `[${moment().format("YYYY-MM-DD HH:mm:ss")}]:`;
 
-
 module.exports = {
     name: "help",
     description: "Sends a list of all of my commands or info about a specific command",
