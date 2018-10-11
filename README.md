@@ -17,6 +17,8 @@ Once the **`ping`** command has been run, the bot will ping you once every 1.5 s
 ### Setup & self-hosting info
 Self-hosting instructions coming soon (whenever I can be bothered to write them).
 
+----------
+
 > Please use this bot at your own risk. I am not responsible and cannot be held liable if you somehow break Discord's ToS through the use of this bot.
 
 ## License
