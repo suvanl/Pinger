@@ -15,7 +15,25 @@ Once the **`ping`** command has been run, the bot will ping you once every 1.5 s
 - Can this bot spam-ping others? No, it will only ping whoever runs the `ping` command.
 
 ### Setup & self-hosting info
-Self-hosting instructions coming soon (whenever I can be bothered to write them).
+**Prerequisites**
+- git (optional) - [download here](https://git-scm.com/downloads)
+- Node.js (version 8 or higher) - [download here](https://nodejs.org/en/)
+
+**Creating a bot account**
+1. Head to https://discordapp.com/developers/applications/.
+2. Hit "Create an application".
+3. Go to the ["Bot" page](https://vgy.me/M8axSa.png), and click "Add bot".
+
+**Downloading and installing the bot**
+1. Click the [Clone or download button](https://vgy.me/nSL8xK.png) on this page, and select "Download ZIP", and unzip the files once downloaded. Alternatively, you can [clone the repository](https://help.github.com/articles/cloning-a-repository/) using git.
+2. Open the "**config.js.example**" file in any text editor (e.g. Visual Studio Code, Atom, Notepad++ or Notepad), and replace `TOKEN-HERE` with your bot's token from the Discord bot application page, and replace `PREFIX-HERE` with your desired command prefix for the bot. **Do not change anything else in this file.**
+3. Rename the file to `config.js`.
+4. Open a terminal window in the directory the (unzipped) bot files are in (e.g. Command Prompt/PowerShell on Windows, Terminal on macOS, etc).
+5. Run `npm install --production`. If you'd like to work on developing this bot, you should just run `npm install`.
+
+**Starting and stopping the bot**
+1. Once everything has been installed, run `npm start` or `node index.js` (both do the same thing) to start the bot.
+2. To stop the bot, press **Ctrl** + **C** in the terminal session.
 
 ----------
 
