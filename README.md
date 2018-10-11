@@ -1,5 +1,10 @@
 # Pinger
+
 **A very simple Discord bot for people who (somehow) like to be spammed with pings**
+
+[![Build Status](https://travis-ci.org/suvanl/Pinger.svg?branch=master)](https://travis-ci.org/suvanl/Pinger)
+
+----------
 
 ### What does it do?
 Once the **`ping`** command has been run, the bot will ping you once every 1.5 seconds.
