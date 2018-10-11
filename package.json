@@ -4,7 +4,8 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "test": "eslint ."
+    "test": "eslint .",
+    "start": "node index.js"
   },
   "author": "suvanl",
   "license": "MIT",
