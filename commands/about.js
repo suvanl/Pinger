@@ -1,5 +1,5 @@
 module.exports = {
-	name: "about",
+    name: "about",
     description: "Bot latency and API response times",
     aliases: ["info", "botinfo"],
 	cooldown: 3,
