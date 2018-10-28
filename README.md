@@ -13,6 +13,8 @@ Once the **`ping`** command has been run, the bot will ping you once every 1.5 s
 - Will it ever stop pinging me? No. 
 - So how do I stop it pinging me? Stop the bot.
 - Can this bot spam-ping others? No, it will only ping whoever runs the `ping` command.
+- Is this a selfbot? No.
+- Can I use this as a selfbot? No. [The use of selfbots is forbidden by Discord](https://support.discordapp.com/hc/en-us/articles/115002192352).
 
 ## Setup & self-hosting info
 **Prerequisites**
